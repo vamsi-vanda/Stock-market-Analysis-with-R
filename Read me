@@ -1,0 +1,3 @@
+	Forecasted the prices of the stock using Time series analysis (ARIMA model).
+  Created visualizations in R to evaluate the trend of the market, factoring in real time attributes.
+	Systematized key time intervals to 'Buy' or 'Sell' stock using Moving averages.
